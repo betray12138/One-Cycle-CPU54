@@ -1,0 +1,75 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/PROJECT/CPU_UPDATE/CPU_UPDATE.ip_user_files/ipstatic/dist_mem_gen_v8_0_10/simulation/dist_mem_gen_v8_0.v" into library dist_mem_gen_v8_0_10
+INFO: [VRFC 10-311] analyzing module dist_mem_gen_v8_0_10
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/PROJECT/CPU_UPDATE/CPU_UPDATE.srcs/sources_1/ip/IMEM/sim/IMEM.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module IMEM
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/PROJECT/CPU_UPDATE/CPU_UPDATE.srcs/sources_1/imports/new/Z_MUL.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Z_MUL
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/PROJECT/CPU_UPDATE/CPU_UPDATE.srcs/sources_1/imports/new/Z_DIV.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Z_DIV
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/PROJECT/CPU_UPDATE/CPU_UPDATE.srcs/sources_1/imports/new/Zero_count.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Zero_count
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/PROJECT/CPU_UPDATE/CPU_UPDATE.srcs/sources_1/imports/new/UEXT8.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module UEXT8
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/PROJECT/CPU_UPDATE/CPU_UPDATE.srcs/sources_1/imports/new/UEXT5.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module UEXT5
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/PROJECT/CPU_UPDATE/CPU_UPDATE.srcs/sources_1/imports/new/UEXT16.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module UEXT16
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/PROJECT/CPU_UPDATE/CPU_UPDATE.srcs/sources_1/imports/new/S_MUL.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module S_MUL
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/PROJECT/CPU_UPDATE/CPU_UPDATE.srcs/sources_1/imports/new/S_DIV.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module S_DIV
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/PROJECT/CPU_UPDATE/CPU_UPDATE.srcs/sources_1/imports/new/Regfile.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module decoder
+INFO: [VRFC 10-311] analyzing module selector41
+INFO: [VRFC 10-311] analyzing module Regfile
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/PROJECT/CPU_UPDATE/CPU_UPDATE.srcs/sources_1/imports/new/PC.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module PC
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/PROJECT/CPU_UPDATE/CPU_UPDATE.srcs/sources_1/imports/new/NPC.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module NPC
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/PROJECT/CPU_UPDATE/CPU_UPDATE.srcs/sources_1/imports/new/MUX8.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module MUX8
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/PROJECT/CPU_UPDATE/CPU_UPDATE.srcs/sources_1/imports/new/MUX7.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module MUX7
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/PROJECT/CPU_UPDATE/CPU_UPDATE.srcs/sources_1/imports/new/MUX5.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module MUX5
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/PROJECT/CPU_UPDATE/CPU_UPDATE.srcs/sources_1/imports/new/MUX4.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module MUX4
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/PROJECT/CPU_UPDATE/CPU_UPDATE.srcs/sources_1/imports/new/MUX3.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module MUX3
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/PROJECT/CPU_UPDATE/CPU_UPDATE.srcs/sources_1/imports/new/MUX2.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module MUX2
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/PROJECT/CPU_UPDATE/CPU_UPDATE.srcs/sources_1/imports/new/MUX1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module MUX1
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/PROJECT/CPU_UPDATE/CPU_UPDATE.srcs/sources_1/imports/new/LO.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module LO
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/PROJECT/CPU_UPDATE/CPU_UPDATE.srcs/sources_1/imports/new/I_decoder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module I_decoder
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/PROJECT/CPU_UPDATE/CPU_UPDATE.srcs/sources_1/imports/new/HI.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module HI
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/PROJECT/CPU_UPDATE/CPU_UPDATE.srcs/sources_1/imports/new/EXT8.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module EXT8
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/PROJECT/CPU_UPDATE/CPU_UPDATE.srcs/sources_1/imports/new/EXT5.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module EXT5
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/PROJECT/CPU_UPDATE/CPU_UPDATE.srcs/sources_1/imports/new/EXT18.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module EXT18
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/PROJECT/CPU_UPDATE/CPU_UPDATE.srcs/sources_1/imports/new/EXT16.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module EXT16
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/PROJECT/CPU_UPDATE/CPU_UPDATE.srcs/sources_1/imports/new/DMEM.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module DMEM
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/PROJECT/CPU_UPDATE/CPU_UPDATE.srcs/sources_1/imports/new/CP0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module MUX2_1
+INFO: [VRFC 10-311] analyzing module CP0
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/PROJECT/CPU_UPDATE/CPU_UPDATE.srcs/sources_1/imports/new/Connect.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Connect
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/PROJECT/CPU_UPDATE/CPU_UPDATE.srcs/sources_1/imports/new/alu.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module alu
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/PROJECT/CPU_UPDATE/CPU_UPDATE.srcs/sources_1/new/ADD.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ADD
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/PROJECT/CPU_UPDATE/CPU_UPDATE.srcs/sources_1/imports/new/CPU.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module cpu
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/PROJECT/CPU_UPDATE/CPU_UPDATE.srcs/sources_1/imports/new/sccomp_dataflow.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sccomp_dataflow
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/PROJECT/CPU_UPDATE/CPU_UPDATE.srcs/sim_1/imports/new/CPU_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module cpu_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/PROJECT/CPU_UPDATE/CPU_UPDATE.sim/sim_1/behav/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

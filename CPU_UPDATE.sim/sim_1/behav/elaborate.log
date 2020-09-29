@@ -1,0 +1,53 @@
+Vivado Simulator 2016.2
+Copyright 1986-1999, 2001-2016 Xilinx, Inc. All Rights Reserved.
+Running: D:/vivado/Vivado/2016.2/bin/unwrapped/win64.o/xelab.exe -wto 37d6d9a0f2964bcb92ce2e033204d2f5 --debug typical --relax --mt 2 -L dist_mem_gen_v8_0_10 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot cpu_tb_behav xil_defaultlib.cpu_tb xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+WARNING: [VRFC 10-278] actual bit length 32 differs from formal bit length 11 for port a [D:/vivado/PROJECT/CPU_UPDATE/CPU_UPDATE.srcs/sources_1/imports/new/CPU.v:49]
+WARNING: [VRFC 10-278] actual bit length 32 differs from formal bit length 5 for port iS0 [D:/vivado/PROJECT/CPU_UPDATE/CPU_UPDATE.srcs/sources_1/imports/new/Regfile.v:227]
+WARNING: [VRFC 10-278] actual bit length 32 differs from formal bit length 5 for port iS1 [D:/vivado/PROJECT/CPU_UPDATE/CPU_UPDATE.srcs/sources_1/imports/new/Regfile.v:226]
+WARNING: [VRFC 10-278] actual bit length 32 differs from formal bit length 11 for port addr [D:/vivado/PROJECT/CPU_UPDATE/CPU_UPDATE.srcs/sources_1/imports/new/CPU.v:74]
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.PC
+Compiling module dist_mem_gen_v8_0_10.dist_mem_gen_v8_0_10(C_FAMILY="a...
+Compiling module xil_defaultlib.IMEM
+Compiling module xil_defaultlib.I_decoder
+Compiling module xil_defaultlib.NPC
+Compiling module xil_defaultlib.Connect
+Compiling module xil_defaultlib.UEXT5
+Compiling module xil_defaultlib.EXT5
+Compiling module xil_defaultlib.EXT8
+Compiling module xil_defaultlib.UEXT8
+Compiling module xil_defaultlib.EXT16
+Compiling module xil_defaultlib.MUX5
+Compiling module xil_defaultlib.UEXT16
+Compiling module xil_defaultlib.EXT18
+Compiling module xil_defaultlib.ADD
+Compiling module xil_defaultlib.MUX2
+Compiling module xil_defaultlib.decoder
+Compiling module xil_defaultlib.selector41
+Compiling module xil_defaultlib.Regfile
+Compiling module xil_defaultlib.MUX3
+Compiling module xil_defaultlib.MUX4
+Compiling module xil_defaultlib.MUX1
+Compiling module xil_defaultlib.alu
+Compiling module xil_defaultlib.Zero_count
+Compiling module xil_defaultlib.Z_MUL
+Compiling module xil_defaultlib.S_MUL
+Compiling module xil_defaultlib.Z_DIV
+Compiling module xil_defaultlib.S_DIV
+Compiling module xil_defaultlib.DMEM
+Compiling module xil_defaultlib.MUX7
+Compiling module xil_defaultlib.MUX8
+Compiling module xil_defaultlib.HI
+Compiling module xil_defaultlib.LO
+Compiling module xil_defaultlib.MUX2_1
+Compiling module xil_defaultlib.CP0
+Compiling module xil_defaultlib.cpu
+Compiling module xil_defaultlib.sccomp_dataflow
+Compiling module xil_defaultlib.cpu_tb
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot cpu_tb_behav

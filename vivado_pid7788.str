@@ -1,0 +1,92 @@
+/*
+
+Vivado v2016.2 (64-bit)
+SW Build 1577090 on Thu Jun  2 16:32:40 MDT 2016
+Process ID: 7788
+
+Current time: 	9/29/20 6:38:06 PM CST
+Time zone: 	China Standard Time (Asia/Shanghai)
+
+OS: Windows 10
+Version: 10.0
+Architecture: amd64
+Available processors (cores): 8
+
+Screen size: 1536x864
+Screen resolution (DPI): 96
+Available screens: 1
+Default font: family=SimSun,name=ËÎÌו,style=plain,size=12
+
+Java version: 	1.8.0_66 64-bit
+Java home: 	D:/vivado/Vivado/2016.2/tps/win64/jre
+
+User name: 	asus
+User home directory: C:/Users/asus
+User working directory: D:/vivado/PROJECT/CPU_UPDATE
+User country: 	CN
+User language: 	zh
+User locale: 	zh_CN
+
+RDI Base root directory: D:/vivado/Vivado
+RDI Data directory: D:/vivado/Vivado/2016.2/data
+RDI Bin directory: D:/vivado/Vivado/2016.2/bin
+
+Vivado preferences path: C:/Users/asus/AppData/Roaming/Xilinx/Vivado/2016.2/vivado.ini
+Vivado layouts directory: C:/Users/asus/AppData/Roaming/Xilinx/Vivado/2016.2/layouts
+
+GUI allocated memory:	156 MB
+GUI max memory:		3,052 MB
+Engine allocated memory: 441 MB
+
+*/
+
+// TclEventType: START_GUI
+// Tcl Message: start_gui 
+// TclEventType: PROJECT_OPEN_DIALOG
+// [GUI Memory]: 40 MB (+38953kb) [00:00:17]
+// [Engine Memory]: 390 MB (+257702kb) [00:00:17]
+// bL:g (cv:JFrame):  Open Project : addNotify
+// Opening Vivado Project: D:\vivado\PROJECT\CPU_UPDATE\CPU_UPDATE.xpr. Version: Vivado v2016.2 
+// TclEventType: DEBUG_PROBE_SET_CHANGE
+// Tcl Message: open_project D:/vivado/PROJECT/CPU_UPDATE/CPU_UPDATE.xpr 
+// TclEventType: MSGMGR_MOVEMSG
+// [GUI Memory]: 53 MB (+11895kb) [00:00:20]
+// [Engine Memory]: 442 MB (+33864kb) [00:00:20]
+// TclEventType: FILE_SET_NEW
+// TclEventType: RUN_COMPLETED
+// TclEventType: RUN_CURRENT
+// HMemoryUtils.trashcanNow. Engine heap size: 461 MB. GUI used memory: 29 MB. Current time: 9/29/20 6:38:08 PM CST
+// TclEventType: FILE_SET_CHANGE
+// TclEventType: PROJECT_NEW
+// [Engine Memory]: 515 MB (+53269kb) [00:00:24]
+// TclEventType: FILE_SET_OPTIONS_CHANGE
+// Tcl Message: open_project D:/vivado/PROJECT/CPU_UPDATE/CPU_UPDATE.xpr 
+// Tcl Message: Scanning sources... Finished scanning sources 
+// Tcl Message: INFO: [IP_Flow 19-234] Refreshing IP repositories INFO: [IP_Flow 19-1704] No user IP repositories specified INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'D:/vivado/Vivado/2016.2/data/ip'. 
+// TclEventType: FILE_SET_OPTIONS_CHANGE
+// [GUI Memory]: 56 MB (+534kb) [00:00:29]
+// TclEventType: FILE_SET_OPTIONS_CHANGE
+// [GUI Memory]: 59 MB (+71kb) [00:00:29]
+// [Engine Memory]: 549 MB (+9051kb) [00:00:29]
+// TclEventType: FILE_SET_OPTIONS_CHANGE
+// Project name: CPU_UPDATE; location: D:/vivado/PROJECT/CPU_UPDATE; part: xc7a100tcsg324-1
+// Tcl Message: open_project: Time (s): cpu = 00:00:15 ; elapsed = 00:00:12 . Memory (MB): peak = 768.996 ; gain = 136.711 
+dismissDialog("Open Project"); // bL:g (cv:JFrame)
+// TclEventType: DG_GRAPH_STALE
+// TclEventType: DG_UPDATE_GRAPH
+// TclEventType: DG_ANALYSIS_MSG_RESET
+// TclEventType: DG_UPDATE_GRAPH
+// TclEventType: DG_ANALYSIS_MSG_RESET
+// TclEventType: DG_UPDATE_GRAPH
+// Tcl Message: update_compile_order -fileset sources_1 
+// a:a (cv:JFrame): Critical Messages: addNotify
+selectButton(PAResourceAtoD.CmdMsgDialog_OK, "OK"); // i:a (JPanel:JComponent, a:a)
+selectButton(PAResourceAtoD.CmdMsgDialog_OK, "OK"); // i:a (JPanel:JComponent, a:a)
+dismissDialog("Critical Messages"); // a:a (cv:JFrame)
+expandTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, sccomp_dataflow (sccomp_dataflow.v)]", 1); // z:k (G:JPanel, cv:JFrame)
+expandTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, sccomp_dataflow (sccomp_dataflow.v), sccpu - cpu (CPU.v)]", 2); // z:k (G:JPanel, cv:JFrame)
+// PAPropertyPanels.initPanels (CP0.v) elapsed time: 0.2s
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, sccomp_dataflow (sccomp_dataflow.v), sccpu - cpu (CPU.v), cp0 - CP0 (CP0.v)]", 34, true); // z:k (G:JPanel, cv:JFrame) - Node
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, sccomp_dataflow (sccomp_dataflow.v), sccpu - cpu (CPU.v), cp0 - CP0 (CP0.v)]", 34, true, false, false, false, false, true); // z:k (G:JPanel, cv:JFrame) - Double Click - Node
+// [GUI Memory]: 64 MB (+1948kb) [00:01:17]
+// [GUI Memory]: 67 MB (+177kb) [00:02:46]

@@ -1,0 +1,23 @@
+#-----------------------------------------------------------
+# Vivado v2016.2 (64-bit)
+# SW Build 1577090 on Thu Jun  2 16:32:40 MDT 2016
+# IP Build 1577682 on Fri Jun  3 12:00:54 MDT 2016
+# Start of session at: Tue Sep 29 18:37:18 2020
+# Process ID: 7788
+# Current directory: D:/vivado/PROJECT/CPU_UPDATE
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent8564 D:\vivado\PROJECT\CPU_UPDATE\CPU_UPDATE.xpr
+# Log file: D:/vivado/PROJECT/CPU_UPDATE/vivado.log
+# Journal file: D:/vivado/PROJECT/CPU_UPDATE\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project D:/vivado/PROJECT/CPU_UPDATE/CPU_UPDATE.xpr
+CRITICAL WARNING: [Project 1-19] Could not find the file 'c:/Users/asus/Desktop/mips_54_mars_simulate_student_ForWeb.coe'.
+CRITICAL WARNING: [Project 1-19] Could not find the file 'c:/Users/asus/Desktop/CP0_test_hex.coe'.
+CRITICAL WARNING: [Project 1-19] Could not find the file 'c:/Users/asus/Desktop/s11.coe'.
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'D:/vivado/Vivado/2016.2/data/ip'.
+open_project: Time (s): cpu = 00:00:15 ; elapsed = 00:00:12 . Memory (MB): peak = 768.996 ; gain = 136.711
+update_compile_order -fileset sources_1
